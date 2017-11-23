@@ -1,0 +1,11 @@
+E:\13thNov2017\Timeseries.Service\TSManager\bin\Debug\netcoreapp1.1\TSManager.deps.json
+E:\13thNov2017\Timeseries.Service\TSManager\bin\Debug\netcoreapp1.1\TSManager.dll
+E:\13thNov2017\Timeseries.Service\TSManager\bin\Debug\netcoreapp1.1\TSManager.pdb
+E:\13thNov2017\Timeseries.Service\TSManager\bin\Debug\netcoreapp1.1\DataAdaptor.dll
+E:\13thNov2017\Timeseries.Service\TSManager\bin\Debug\netcoreapp1.1\DataAdaptor.pdb
+E:\13thNov2017\Timeseries.Service\TSManager\obj\Debug\netcoreapp1.1\TSManager.csprojResolveAssemblyReference.cache
+E:\13thNov2017\Timeseries.Service\TSManager\obj\Debug\netcoreapp1.1\TSManager.csproj.CoreCompileInputs.cache
+E:\13thNov2017\Timeseries.Service\TSManager\obj\Debug\netcoreapp1.1\TSManager.AssemblyInfoInputs.cache
+E:\13thNov2017\Timeseries.Service\TSManager\obj\Debug\netcoreapp1.1\TSManager.AssemblyInfo.cs
+E:\13thNov2017\Timeseries.Service\TSManager\obj\Debug\netcoreapp1.1\TSManager.dll
+E:\13thNov2017\Timeseries.Service\TSManager\obj\Debug\netcoreapp1.1\TSManager.pdb

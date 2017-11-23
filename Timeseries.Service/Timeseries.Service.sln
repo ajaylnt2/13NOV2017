@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Timeseries.Manager", "Timeseries.Manager", "{F4B3C6A3-9961-4735-809A-1319654C4E96}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataAdaptor", "DataAdaptor", "{BF452356-3D7B-4C1F-B049-C4C8C13ABF47}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Logger", "Logger", "{E79E2498-B256-492A-BAD5-8852F1633947}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Timeseries.API", "Timeseries.API\Timeseries.API.csproj", "{F03BA8E5-F091-45E2-9722-5D6BE1B99BEF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Timeseries.API", "Timeseries.API", "{B2CA0234-5153-4BD4-B5EF-706E2D8A2D04}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAdaptor", "DataAdaptor\DataAdaptor.csproj", "{F6686E65-FF7E-4F84-B196-1FFE019D8B06}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TSManager", "TSManager\TSManager.csproj", "{BE19B3EA-AC37-49F6-83F3-3C4E24484E79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDataAdaptor", "IDataAdaptor\IDataAdaptor.csproj", "{22365B25-A901-491B-B187-840319E9F6A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F03BA8E5-F091-45E2-9722-5D6BE1B99BEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F03BA8E5-F091-45E2-9722-5D6BE1B99BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F03BA8E5-F091-45E2-9722-5D6BE1B99BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F03BA8E5-F091-45E2-9722-5D6BE1B99BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6686E65-FF7E-4F84-B196-1FFE019D8B06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6686E65-FF7E-4F84-B196-1FFE019D8B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6686E65-FF7E-4F84-B196-1FFE019D8B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6686E65-FF7E-4F84-B196-1FFE019D8B06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE19B3EA-AC37-49F6-83F3-3C4E24484E79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE19B3EA-AC37-49F6-83F3-3C4E24484E79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE19B3EA-AC37-49F6-83F3-3C4E24484E79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE19B3EA-AC37-49F6-83F3-3C4E24484E79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22365B25-A901-491B-B187-840319E9F6A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22365B25-A901-491B-B187-840319E9F6A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22365B25-A901-491B-B187-840319E9F6A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22365B25-A901-491B-B187-840319E9F6A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F03BA8E5-F091-45E2-9722-5D6BE1B99BEF} = {B2CA0234-5153-4BD4-B5EF-706E2D8A2D04}
+		{F6686E65-FF7E-4F84-B196-1FFE019D8B06} = {BF452356-3D7B-4C1F-B049-C4C8C13ABF47}
+		{BE19B3EA-AC37-49F6-83F3-3C4E24484E79} = {F4B3C6A3-9961-4735-809A-1319654C4E96}
+		{22365B25-A901-491B-B187-840319E9F6A6} = {BF452356-3D7B-4C1F-B049-C4C8C13ABF47}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://ape-solutions.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DataAdaptor\\DataAdaptor.csproj
+		SccProjectTopLevelParentUniqueName1 = Timeseries.Service.sln
+		SccProjectName1 = DataAdaptor
+		SccLocalPath1 = DataAdaptor
+		SccProjectUniqueName2 = Timeseries.API\\Timeseries.API.csproj
+		SccProjectTopLevelParentUniqueName2 = Timeseries.Service.sln
+		SccProjectName2 = Timeseries.API
+		SccLocalPath2 = Timeseries.API
+		SccProjectUniqueName3 = TSManager\\TSManager.csproj
+		SccProjectTopLevelParentUniqueName3 = Timeseries.Service.sln
+		SccProjectName3 = TSManager
+		SccLocalPath3 = TSManager
+		SccProjectUniqueName4 = IDataAdaptor\\IDataAdaptor.csproj
+		SccProjectTopLevelParentUniqueName4 = Timeseries.Service.sln
+		SccProjectName4 = IDataAdaptor
+		SccLocalPath4 = IDataAdaptor
+	EndGlobalSection
+EndGlobal

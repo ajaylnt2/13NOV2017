@@ -1,0 +1,9 @@
+E:\13thNov2017\Timeseries.Service\IDataAdaptor\bin\Debug\netcoreapp1.1\IDataAdaptor.deps.json
+E:\13thNov2017\Timeseries.Service\IDataAdaptor\bin\Debug\netcoreapp1.1\IDataAdaptor.dll
+E:\13thNov2017\Timeseries.Service\IDataAdaptor\bin\Debug\netcoreapp1.1\IDataAdaptor.pdb
+E:\13thNov2017\Timeseries.Service\IDataAdaptor\obj\Debug\netcoreapp1.1\IDataAdaptor.csproj.CoreCompileInputs.cache
+E:\13thNov2017\Timeseries.Service\IDataAdaptor\obj\Debug\netcoreapp1.1\IDataAdaptor.AssemblyInfoInputs.cache
+E:\13thNov2017\Timeseries.Service\IDataAdaptor\obj\Debug\netcoreapp1.1\IDataAdaptor.AssemblyInfo.cs
+E:\13thNov2017\Timeseries.Service\IDataAdaptor\obj\Debug\netcoreapp1.1\IDataAdaptor.dll
+E:\13thNov2017\Timeseries.Service\IDataAdaptor\obj\Debug\netcoreapp1.1\IDataAdaptor.pdb
+E:\13thNov2017\Timeseries.Service\IDataAdaptor\obj\Debug\netcoreapp1.1\IDataAdaptor.csprojResolveAssemblyReference.cache

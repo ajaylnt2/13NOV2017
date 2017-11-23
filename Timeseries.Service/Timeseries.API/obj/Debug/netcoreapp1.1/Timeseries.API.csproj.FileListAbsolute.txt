@@ -1,0 +1,17 @@
+E:\13thNov2017\Timeseries.Service\Timeseries.API\bin\Debug\netcoreapp1.1\Microsoft.Azure.Documents.ServiceInterop.dll
+E:\13thNov2017\Timeseries.Service\Timeseries.API\bin\Debug\netcoreapp1.1\DocumentDB.Spatial.Sql.dll
+E:\13thNov2017\Timeseries.Service\Timeseries.API\bin\Debug\netcoreapp1.1\Timeseries.API.deps.json
+E:\13thNov2017\Timeseries.Service\Timeseries.API\bin\Debug\netcoreapp1.1\Timeseries.API.runtimeconfig.json
+E:\13thNov2017\Timeseries.Service\Timeseries.API\bin\Debug\netcoreapp1.1\Timeseries.API.runtimeconfig.dev.json
+E:\13thNov2017\Timeseries.Service\Timeseries.API\bin\Debug\netcoreapp1.1\Timeseries.API.dll
+E:\13thNov2017\Timeseries.Service\Timeseries.API\bin\Debug\netcoreapp1.1\Timeseries.API.pdb
+E:\13thNov2017\Timeseries.Service\Timeseries.API\bin\Debug\netcoreapp1.1\DataAdaptor.dll
+E:\13thNov2017\Timeseries.Service\Timeseries.API\bin\Debug\netcoreapp1.1\TSManager.dll
+E:\13thNov2017\Timeseries.Service\Timeseries.API\bin\Debug\netcoreapp1.1\TSManager.pdb
+E:\13thNov2017\Timeseries.Service\Timeseries.API\bin\Debug\netcoreapp1.1\DataAdaptor.pdb
+E:\13thNov2017\Timeseries.Service\Timeseries.API\obj\Debug\netcoreapp1.1\Timeseries.API.csprojResolveAssemblyReference.cache
+E:\13thNov2017\Timeseries.Service\Timeseries.API\obj\Debug\netcoreapp1.1\Timeseries.API.csproj.CoreCompileInputs.cache
+E:\13thNov2017\Timeseries.Service\Timeseries.API\obj\Debug\netcoreapp1.1\Timeseries.API.AssemblyInfoInputs.cache
+E:\13thNov2017\Timeseries.Service\Timeseries.API\obj\Debug\netcoreapp1.1\Timeseries.API.AssemblyInfo.cs
+E:\13thNov2017\Timeseries.Service\Timeseries.API\obj\Debug\netcoreapp1.1\Timeseries.API.dll
+E:\13thNov2017\Timeseries.Service\Timeseries.API\obj\Debug\netcoreapp1.1\Timeseries.API.pdb
